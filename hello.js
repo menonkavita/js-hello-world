@@ -4,7 +4,13 @@ Enter your code on line 7 to print 'Hello, World!'
 to the console (the panel on the right)
 */
 
-console.log("Hello");
+console.log("Hello World");
+
+console.log("")
+console.log("")
+
+/* Testing */
+
 console.log('Hello World 2');
 console.log("Hello World without semi-colon")
 console.log("Number of the day is 10");
@@ -15,7 +21,7 @@ console.log('"Women belong in all places where decisions are being made. It shou
 console.log("Above message without use of Apostrophe.    Below message with Apostrophe.");
 console.log('"Women belong in all places where decisions are being made. It \shouldn\'t be that women are the exception." - Ruth Bader Ginsburg');
 
-/*console.log(Hello World without any quotes); Did not work, gave syntax error.
+/*console.log(Hello World without any quotes); Did not work, gave syntax error. */
 
 
 
